@@ -1,0 +1,2 @@
+eb setenv POSTGRES_HOST="udagram-database.cxc0njxiggnk.us-east-1.rds.amazonaws.com" DB_PORT=5432  PORT=3000 POSTGRES_PASSWORD="postgres" POSTGRES_USERNAME="postgres" RDS_DIALECT="postgres" POSTGRES_DB="postgres" 
+URL="http://udagram-bucket909.s3-website-us-east-1.amazonaws.com/" JWT_SECRET="my-key2022 "AWS_REGION="us-east-1" AWS_ACCESS_KEY_ID="AKIAQYWGJP3TICSAEMHR" AWS_SECRET_ACCESS_KEY="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" AWS_BUCKET="arn:aws:s3:::udagram-bucket909"
